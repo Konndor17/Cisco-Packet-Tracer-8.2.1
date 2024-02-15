@@ -8,3 +8,4 @@ Inicias el intalador
 una ves finalizado no ejecutes el programa todavia
 
 remplaza el setup con el crack y listo
+![fotos](https://github.com/Konndor17/Cisco-Packet-Tracer-8.2.1/assets/159853584/b14fb658-e7ca-4f04-8e44-26dfa184df56)
